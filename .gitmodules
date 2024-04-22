@@ -1,0 +1,3 @@
+[submodule "Langchain-Chatchat"]
+	path = Langchain-Chatchat
+	url = https://github.com/chatchat-space/Langchain-Chatchat.git
